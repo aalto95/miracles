@@ -15,7 +15,8 @@ export default function BlogPage() {
               Blog
             </h1>
             <p className="text-lg text-gray-600">
-              Thoughts, tutorials, and insights on web development and technology.
+              Thoughts, tutorials, and insights on web development and
+              technology.
             </p>
           </div>
           <div className="pt-2">
